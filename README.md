@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @10doshi12
 - 👀 I’m interested in Robotics and Artificial Intelligence
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Client Management System
+- 🌱 I’m currently learning DSA for Competitive programming
+- 💞️ I’m looking to collaborate on web-applications.
 - 📫 How to reach me  - You can contact me via Email on 10doshi12@gmail.com
 
 <!---
